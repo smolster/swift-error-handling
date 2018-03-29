@@ -12,3 +12,5 @@ My thoughts on process: Perhaps we take the following approach:
 
 4. Once we have a "good-enough" draft of the proposal, put it up on the Swift Evolution Forums
    - **Why**: Sticking to "good enough" will help ensure that we get the communities eyes on it sooner, which means it will be more likely to get into Swift, generally
+
+Open to any and all thoughts you have about this process Mack
